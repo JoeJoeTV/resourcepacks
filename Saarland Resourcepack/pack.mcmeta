@@ -1,0 +1,13 @@
+{
+    "pack": {
+        "description": "Ein Resourcenpaket, das Saarländische dinge hizufügt. Von JoeJoeTV & mamasch19",
+        "pack_format": 4
+    },
+    "language": {
+        "de_sl": {
+            "bidirectional": false,
+            "name": "Saarländisch",
+            "region": "Saarland"
+        } 
+    }
+}
