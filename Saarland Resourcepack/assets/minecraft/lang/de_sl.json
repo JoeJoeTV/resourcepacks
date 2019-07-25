@@ -26,6 +26,7 @@
     "advMode.self": "Benutz \u201e@s\u201c, das de es ausführende Objekt auswählschd",
     "advMode.setCommand": "Befehl eingewe",
     "advMode.setCommand.success": "Befehl feschdgelegd: %s",
+    
     "advancement.advancementNotFound": "Unbekannter Fortschritt \u201a%s\u2018",
     "advancements.adventure.adventuring_time.description": "Entdecke alle Biome",
     "advancements.adventure.adventuring_time.title": "Abenteuerzeit",
